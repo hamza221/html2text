@@ -7,7 +7,7 @@ A PHP library for converting HTML to formatted plain text.
 ## Installing
 
 ```
-composer require html2text/html2text
+composer require hamza221/html2text
 ```
 
 ## Basic Usage
